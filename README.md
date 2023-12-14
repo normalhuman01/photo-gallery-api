@@ -1,9 +1,8 @@
-# Typescript Photo Gallery API
-This project is a simple web server written in Typescript using Nodejs and Mongodb, with the purpose to store images for Client Applications like web applications or mobile apps.
+# typescript photo gallery api
+This endeavor entails a straightforward web server built in Typescript, leveraging Node.js and MongoDB. Its primary objective is to serve as a repository for images destined for client applications such as web and mobile apps
 
-# Installation
+# installation
 ```
-git clone https://github.com/FaztTech/photo-gallery-api
 cd photo-gallery-api
 npm install
 npm start
